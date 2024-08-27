@@ -28,7 +28,6 @@ Asenna VirtualBox koneellesi, jos sinulla sitä ei vielä ole osoitteesta https:
 ![image](https://github.com/user-attachments/assets/ec70b71b-4360-4079-b677-b3eed79a099a)
 
 Klikkaa oman käyttöjärjestelmäsi nimeä ja lataa tiedosto koneellesi
-
 Avaa VirtualBox ja valitse Machine-valikosta New
 
 ![image](https://github.com/user-attachments/assets/1cc10ec5-040e-4796-8f9b-e20e7f6c0f79)
@@ -42,7 +41,6 @@ Anna virtuaalikoneellesi nimi, kohtaan ISO Image etsi koneeltasi lataamasi tiedo
 ![image](https://github.com/user-attachments/assets/adff7304-b5bb-42b5-9a2d-b50697337744)
 
 Laita täppä kohtaan Skip Unattended Installation
-
 Määritä Hardware kohdasta koneellesi sopiva määrä RAM-muistia, mitä enemmän pystyt laittamaan sitä parempi
 
 ![image](https://github.com/user-attachments/assets/66ebae5f-6811-424e-a519-24260239c335)
@@ -52,7 +50,6 @@ Määritä Hard Disk kohdasta koneellesi sopiva määrä kovalevytilaa
 ![image](https://github.com/user-attachments/assets/f4be46b0-ab6b-43f2-97a7-23e725a3ce1c)
 
 Paina alhaalta Finish-painiketta
-
 Asennettu virtuaalikone nyt näkyvissä. Valitse ensin Settings, sitten Storage ja Optical Drive -kohdan levynkuvan valikosta Chooe/Create Virtual Optical Disk
 Minulla tämä oli automaattisesti valittuna, mutta jos ei ole valitse lataamasi Debian-tiedosto
 
@@ -70,7 +67,7 @@ Valitse
 - Partitions: Erase Disk
 - Users: Your Name, Computer Name, Password ja Log in automatically ei täppää
 - Summary sivulla näkyy mitä asennetaan ja klikkaa Install
-- 
+
 ![image](https://github.com/user-attachments/assets/d02d42d9-8071-4d6f-ab29-e6c724f3a997)
 
 Debian lähtee asentumaan, tässä saattaa kestää useampia minuutteja.

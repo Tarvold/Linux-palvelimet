@@ -76,11 +76,17 @@ Syötä akaisemmin antamasi käyttäjätunnus ja salasana
 
 Nyt Debian on onnistuneesti asennettu!
 
-# Lähteet
+## Lähteet
   Kurssi : Linux-palvelimet - ICI003AS2A-3010
+  
   Tehtävänanto: https://terokarvinen.com/linux-palvelimet/
+  
   Debianin asennus ohjeita: https://terokarvinen.com/2021/install-debian-on-virtualbox/ 26.08.2024
+  
   Debian asennettu sivulta https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/ 26.08.2024
+  
   VirtualBox asennettu sivulta https://www.virtualbox.org/wiki/Downloads 26.08.2024
+  
   Raportin kijoittaminen https://terokarvinen.com/2006/raportin-kirjoittaminen-4/ Luettu 26.08.2024
+  
   FSF Free Software Definition https://www.gnu.org/philosophy/free-sw.html Luettu 26.08.2024

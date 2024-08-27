@@ -50,3 +50,23 @@ Asennettu virtuaalikone nyt näkyvissä. Valitse ensin Settings, sitten Storage 
 Minulla tämä oli automaattisesti valittuna, mutta jos ei ole valitse lataamasi debian-tiedosto
 ![image](https://github.com/user-attachments/assets/2bc00edd-76e6-46fa-bef7-493f2799c4ab)
 
+Käynnistä virtuaalikone tuplaklikkaamalla konetta tai valitsemalla Start
+Virtuaalikoneen käynnistysvalikosta valikosta valitse Live system
+![image](https://github.com/user-attachments/assets/a2ea5df6-6c2a-4b50-b2dd-0cc1498d1408
+
+Työpöydältä klikkaa Install Debian, jonka jälkeen avautuu asennusvalikko
+
+Valitse
+- Language: American English
+- Location: Finland
+- Keyboard: Finnish, Default
+- Partitions: Erase Disk
+- Users: Your Name, Computer Name, Password ja Log in automatically ei täppää
+- Summary sivulla näkyy mitä asennetaan ja klikkaa Install
+![image](https://github.com/user-attachments/assets/d02d42d9-8071-4d6f-ab29-e6c724f3a997)
+
+Debian lähtee asentumaan, tässä saattaa kestää useampia minuutteja.
+Asentumisen jälkeen avautuu Login näyttö
+Syötä akaisemmin antamasi käyttäjätunnus ja salasana
+
+Nyt Debian on onnistuneesti asennettu!

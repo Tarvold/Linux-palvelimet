@@ -61,8 +61,6 @@ Minulla tämä oli automaattisesti valittuna, mutta jos ei ole valitse lataamasi
 Käynnistä virtuaalikone tuplaklikkaamalla konetta tai valitsemalla Start
 Virtuaalikoneen käynnistysvalikosta valikosta valitse Live system
 
-![image](https://github.com/user-attachments/assets/a2ea5df6-6c2a-4b50-b2dd-0cc1498d1408
-
 Työpöydältä klikkaa Install Debian, jonka jälkeen avautuu asennusvalikko
 
 Valitse

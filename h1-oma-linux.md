@@ -50,7 +50,7 @@ Määritä Hard Disk kohdasta koneellesi sopiva määrä kovalevytilaa
 ![image](https://github.com/user-attachments/assets/f4be46b0-ab6b-43f2-97a7-23e725a3ce1c)
 
 Paina alhaalta Finish-painiketta
-Asennettu virtuaalikone nyt näkyvissä. Valitse ensin Settings, sitten Storage ja Optical Drive -kohdan levynkuvan valikosta Chooe/Create Virtual Optical Disk
+Asennettu virtuaalikone nyt näkyvissä. Valitse ensin Settings, sitten Storage ja Optical Drive -kohdan levynkuvan valikosta Choose/Create Virtual Optical Disk
 Minulla tämä oli automaattisesti valittuna, mutta jos ei ole valitse lataamasi Debian-tiedosto
 
 ![image](https://github.com/user-attachments/assets/2bc00edd-76e6-46fa-bef7-493f2799c4ab)
@@ -75,3 +75,12 @@ Asentumisen jälkeen avautuu Login näyttö
 Syötä akaisemmin antamasi käyttäjätunnus ja salasana
 
 Nyt Debian on onnistuneesti asennettu!
+
+# Lähteet
+  Kurssi : Linux-palvelimet - ICI003AS2A-3010
+  Tehtävänanto: https://terokarvinen.com/linux-palvelimet/
+  Debianin asennus ohjeita: https://terokarvinen.com/2021/install-debian-on-virtualbox/ 26.08.2024
+  Debian asennettu sivulta https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/ 26.08.2024
+  VirtualBox asennettu sivulta https://www.virtualbox.org/wiki/Downloads 26.08.2024
+  Raportin kijoittaminen https://terokarvinen.com/2006/raportin-kirjoittaminen-4/ Luettu 26.08.2024
+  FSF Free Software Definition https://www.gnu.org/philosophy/free-sw.html Luettu 26.08.2024

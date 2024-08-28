@@ -1,6 +1,6 @@
 # H1 - Oma Linux
 
-## Rapotin kirjoittaminen
+## Raportin kirjoittaminen
   - Kertoa selkeästi mitä on tehty
   - Onko kohdattu ongelmia?
   - Miten ongelmat ratkaistiin?
@@ -21,7 +21,7 @@ Lataa koneellesi uusin version Debian ISO Imagesta osoitteesta https://cdimage.d
 
 ![image](https://github.com/user-attachments/assets/941102e3-d2a1-4954-8181-21341a07253d)
 
-Kirjoitus hetkellä se on 	debian-live-12.6.0-amd64-xfce.iso
+Kirjoitus hetkellä se on debian-live-12.6.0-amd64-xfce.iso
 Klikkaa sitä ja lataa tiedosto koneellesi
 Asenna VirtualBox koneellesi, jos sinulla sitä ei vielä ole osoitteesta https://www.virtualbox.org/wiki/Downloads
 
@@ -87,6 +87,6 @@ Nyt Debian on onnistuneesti asennettu!
   
   VirtualBox asennettu sivulta https://www.virtualbox.org/wiki/Downloads 26.08.2024
   
-  Raportin kijoittaminen https://terokarvinen.com/2006/raportin-kirjoittaminen-4/ Luettu 26.08.2024
+  Raportin kirjoittaminen https://terokarvinen.com/2006/raportin-kirjoittaminen-4/ Luettu 26.08.2024
   
   FSF Free Software Definition https://www.gnu.org/philosophy/free-sw.html Luettu 26.08.2024

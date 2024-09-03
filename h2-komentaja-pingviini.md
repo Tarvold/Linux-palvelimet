@@ -74,5 +74,9 @@ Komennolla "ls | grep host" saan "etc/"-hakemistosta näkyviin vain sellaiset ti
 # Rauta 3.9.2024 16:30
 Asensin lshw:n "sudo apt-get install lshw" -komennolla.
 
-Komennolla "sudo lshw -short sanitize" tuli näkyviin koneen käyttöjärjestelmä, järjestelmämuistin määrä, cpu:n tiedot ja näytön tiedot
+Komennolla "sudo lshw -short -sanitize" tuli näkyviin koneen käyttöjärjestelmä, järjestelmämuistin määrä, cpu:n tiedot ja näytön tiedot
+
+![image](https://github.com/user-attachments/assets/d14c2ff4-6de8-4477-9211-473ec417f642)
+
+![image](https://github.com/user-attachments/assets/a84bb818-36e2-404d-9c53-a1893b947a86)
 

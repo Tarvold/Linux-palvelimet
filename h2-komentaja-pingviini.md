@@ -13,17 +13,17 @@ Asensin Micron "sudo apt-get install micro" -komennolla.
 
 # Apt.
 
-##Fish
+## Fish
 Asensin Fish-komentoriviohjelman "sudo apt-get install fish" -komennolla.
 Fish ehdottaa minun aikaisempiin hakuihin liittyäviä komentoja ja tab-painiekkeella saa näkyviin listan mahdollisista komennoista.
 ![image](https://github.com/user-attachments/assets/69897366-0e9f-4201-ad96-53dd46f15916)
 
-##Nano
+## Nano
 Asensin Nano-komentoriviohjelman "sudo apt-get install nano" -komennolla.
 Nano on komentoriviltä käytettävä teksti editori.
 ![image](https://github.com/user-attachments/assets/b0817b4a-9e65-4b5e-b984-ec381927d260)
 
-##Tilde
+## Tilde
 Asensin Tilde-komentoriviohjelman "sudo apt-get install Tilde" -komennolla.
 Tilde näyttää tältä.
 ![image](https://github.com/user-attachments/assets/c9a6ad6e-34f3-497b-8415-13e7277d88c5)

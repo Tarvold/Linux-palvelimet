@@ -41,6 +41,9 @@ Komennolla "/media/" ei tullut mitään:
 ![image](https://github.com/user-attachments/assets/105c0154-d83a-4843-b781-72a53af63bae)
 
 # The Friendly M
+Grep-komennolla saan suodatettua hakutuloksista vain tiettyjä kirjaimia sisältävät tiedostot:
+Komennon avulla voin myös hakea jotain tiettyä sanaa sisältävät tekstitiedostot:
+Komennon avulla saan näkyviin haluamani tiedoston sijainnin:
 
 # Pipe
 Putkien avulla pystyn yhdellä rivillä syöttämään ensimmäisen komennon syöte seuraavaan komentoon.

@@ -16,28 +16,36 @@ Asensin Micron "sudo apt-get install micro" -komennolla.
 ## Fish
 Asensin Fish-komentoriviohjelman "sudo apt-get install fish" -komennolla.
 Fish ehdottaa minun aikaisempiin hakuihin liittyäviä komentoja ja tab-painiekkeella saa näkyviin listan mahdollisista komennoista.
+
 ![image](https://github.com/user-attachments/assets/69897366-0e9f-4201-ad96-53dd46f15916)
 
 ## Nano
 Asensin Nano-komentoriviohjelman "sudo apt-get install nano" -komennolla.
 Nano on komentoriviltä käytettävä teksti editori.
+
 ![image](https://github.com/user-attachments/assets/b0817b4a-9e65-4b5e-b984-ec381927d260)
 
 ## Tilde
 Asensin Tilde-komentoriviohjelman "sudo apt-get install Tilde" -komennolla.
 Tilde näyttää tältä.
+
 ![image](https://github.com/user-attachments/assets/c9a6ad6e-34f3-497b-8415-13e7277d88c5)
  
 # FHS
 Komenolla "/" pääsin Root-hakemistoon, komennolla "ls" sain näkyviin:
+
 ![image](https://github.com/user-attachments/assets/c3ae0d04-78e6-485b-8b07-0e009ca537b0)
 Komennolla "/home/user" pääsin käyttäjän-hakemistoon, komenolla "ls" sain näkyviin:
+
 ![image](https://github.com/user-attachments/assets/708ddc9b-b9a6-4ec4-8f45-801e427f192a)
 Komennolla "/etc/"  pääsin järjestelmän asetus-hakemistoon, komennolla "ls" sain näkyviin:
+
 ![image](https://github.com/user-attachments/assets/81818b6e-32c9-4c2e-aa0b-91effcb42d1a)
 Komennolla "/var/log" pääsin järjestelmän loki-hakemistoon, komennolla "ls" sain näkyviin:
+
 ![image](https://github.com/user-attachments/assets/066c98a0-d8b3-41fd-972f-e9ac35f3a926)
 Komennolla "/media/" ei tullut mitään:
+
 ![image](https://github.com/user-attachments/assets/105c0154-d83a-4843-b781-72a53af63bae)
 
 # The Friendly M
@@ -48,11 +56,13 @@ Komennon avulla saan näkyviin haluamani tiedoston sijainnin:
 # Pipe
 Putkien avulla pystyn yhdellä rivillä syöttämään ensimmäisen komennon syöte seuraavaan komentoon.
 Komennolla "ls | grep host" saan "etc/"-hakemistosta näkyviin vain sellaiset tiedostot, joiden nimessä on sana "host":
+
 ![image](https://github.com/user-attachments/assets/a18a99dd-5f11-4e3c-97a9-52ebbbafabef)
 
 # Rauta
 Asensin lshw:n "sudo apt-get install lshw" -komennolla.
 Komennolla "lshw" tuli näkyviin koneen käyttöjärjestelmä, järjestelmämuistin määrä, cpu:n tiedot ja nätön tiedot
+
 ![image](https://github.com/user-attachments/assets/c10a9684-9507-4675-9234-b75256692bf8)
 ![image](https://github.com/user-attachments/assets/cb79b7aa-6bfc-411a-879b-26964f103c87)
 ![image](https://github.com/user-attachments/assets/d6479777-05f4-4cb8-8b97-55338b96307a)

@@ -35,15 +35,19 @@ Tilde näyttää tältä.
 Komenolla "/" pääsin Root-hakemistoon, komennolla "ls" sain näkyviin:
 
 ![image](https://github.com/user-attachments/assets/c3ae0d04-78e6-485b-8b07-0e009ca537b0)
+
 Komennolla "/home/user" pääsin käyttäjän-hakemistoon, komenolla "ls" sain näkyviin:
 
 ![image](https://github.com/user-attachments/assets/708ddc9b-b9a6-4ec4-8f45-801e427f192a)
+
 Komennolla "/etc/"  pääsin järjestelmän asetus-hakemistoon, komennolla "ls" sain näkyviin:
 
 ![image](https://github.com/user-attachments/assets/81818b6e-32c9-4c2e-aa0b-91effcb42d1a)
+
 Komennolla "/var/log" pääsin järjestelmän loki-hakemistoon, komennolla "ls" sain näkyviin:
 
 ![image](https://github.com/user-attachments/assets/066c98a0-d8b3-41fd-972f-e9ac35f3a926)
+
 Komennolla "/media/" ei tullut mitään:
 
 ![image](https://github.com/user-attachments/assets/105c0154-d83a-4843-b781-72a53af63bae)
